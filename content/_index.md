@@ -11,10 +11,9 @@ sections:
         BrainX
         Neuroscience & AI Research Group
       image:
-        filename: welcome.jpg
+        filename: bookshelf.jpg
       text: |
         <br>
-        
         The **BrainX Research Group** has been a center of excellence for Neuroscience & Artificial Intelligence research, teaching, and practice since its founding in 2020.
   
   - block: collection
