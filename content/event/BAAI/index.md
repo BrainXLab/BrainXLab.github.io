@@ -1,7 +1,7 @@
 ---
 title: Beijing Academy of Artificial Intelligence (BAAI) Conference
 
-event: Kai Du: Biophysically Detailed Brain Simulation and NeuroAI(大脑精细仿真和类脑智能)
+event: Kai Du:Biophysically Detailed Brain Simulation and NeuroAI(大脑精细仿真和类脑智能)
 event_url: https://mp.weixin.qq.com/s/4-Z1x0LydTih8Iz8-OScSQ
 
 location: Haidian Beijing
