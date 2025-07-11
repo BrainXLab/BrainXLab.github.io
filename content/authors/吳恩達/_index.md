@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kai Du 杜凯
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kai
+last_name: Du
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 杜凯
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tsinghua University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Neuroscience
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Science
 
 education:
   courses:
@@ -74,6 +74,6 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+杜凯 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
