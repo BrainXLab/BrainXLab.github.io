@@ -61,9 +61,15 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  filename: featured.webp  # 指向你当前文件夹下的图片
+  caption: "a) A reconstructed layer-5 pyramidal neuron model and the mathematical formula used with detailed neuron models. b) Workflow when numerically simulating detailed neuron models. The equation-solving phase is the bottleneck in the simulation. c) An example of linear equations in the simulation. d) Data dependency of the Hines method when solving linear equations in c. e) The size of the Hines matrix scales with model complexity. The number of linear equations system to be solved undergoes a significant increase when models are growing more detailed. f) Computational cost (steps taken in the equation solving phase) of the serial Hines method on different types of neuron models. g) Illustration of different solving methods. Different parts of a neuron are assigned to multiple processing units in parallel methods (mid, right), shown with different colors. In the serial method (left), all compartments are computed with one unit. h) Computational cost of three methods in g when solving equations of a pyramidal model with spines. i) Run time of different methods on solving equations for 500 pyramidal models with spines. The run time indicates the time consumption of 1 s simulation (solving the equation 40,000 times with a time step of 0.025 ms). p-Hines parallel method in CoreNEURON (on GPU), Branch based branch-based parallel method (on GPU), DHS Dendritic hierarchical scheduling method (on GPU)."
+  focal_point: center
   preview_only: false
 
 # Associated Projects (optional).
