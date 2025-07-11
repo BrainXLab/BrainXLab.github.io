@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to our BrainX LAB！
+      - title: 👋 <span style='font-size: 3rem;'>👋 Welcome to our BrainX LAB！</span>
         content: Take a look at what we're working on...
         align: center
         background:
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: yutaohe.jpg
             filters:
               brightness: 0.7
           position: center
