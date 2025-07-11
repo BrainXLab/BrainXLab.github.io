@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 <span style='font-size: 3rem;'>👋 Welcome to our BrainX LAB！</span>
+      - title: 👋 Welcome to our BrainX LAB！</span>
         content: Take a look at what we're working on...
         align: center
         background:
