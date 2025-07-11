@@ -79,6 +79,17 @@ projects:
 
 最后，杜凯指出，要想实现类似大脑的智能，我们需要在仿真大脑的细节（Bottom-up）与从认知角度出发（Top-down）之间进行权衡。他认为，ChatGPT的成功给了我们极大的启示：大脑就像一张巨大的网络，它的深度和规模不仅取决于神经元的数量，而且还取决于每个神经元的复杂性。因此，通过从底层模拟真实的大脑神经系统，可能是实现人类级别智能的更直接的方法。
 
+
+## Talk Review
+
+In the talk *"Biophysically Detailed Brain Simulation and Brain-inspired Intelligence,"* Dr. Kai Du from the Institute for Artificial Intelligence at Peking University shared insights into brain computation principles from the perspective of modern neuroscience. He invited the audience to imagine exploring an ancient, mysterious forest, where neurons are like towering trees with rich and diverse dendritic structures. Regarding how neurons compute, scientists have pursued two distinct approaches. The first path takes a bird's-eye view, simplifying neurons into single points, thereby ignoring complex dendritic structures. Scientists following this approach have achieved remarkable success, ushering in the era of artificial neural networks and deep learning, and enabling large language models such as ChatGPT. The second path, however, dives deeper into the forest, examining the detailed structure of each tree. It focuses on detailed neuron modeling, encompassing how ion channels generate electrical signals and how signals propagate through dendrites. In recent years, scientists have discovered that biophysically detailed neuron models, equipped with complex dendritic structures, possess powerful machine-learning capabilities.
+
+
+Surprisingly, even a single detailed neuron can perform complex logical reasoning tasks. Thus, this second path is considered potentially transformative for future neuroscience and artificial intelligence. However, running large-scale networks of detailed neurons poses significant computational challenges. Traditional simulation software such as NEURON, built upon CPU platforms, suffers from low efficiency. To overcome this challenge, Dr. Du's team developed the GPU-based **DeepDendrite** system, increasing the efficiency of large-scale detailed neuron network simulations by two to three orders of magnitude, while also enabling efficient training of neural networks to perform classical deep-learning tasks.
+
+Dr. Du concluded by noting that achieving brain-like intelligence requires balancing bottom-up detailed brain simulation and top-down cognitive modeling. He emphasized that the success of ChatGPT provides crucial insights: the brain resembles a vast network whose depth and capability depend not merely on the quantity of neurons but also on their complexity. Hence, a more direct route to human-level intelligence might come from accurately simulating the brain's underlying neural architecture.
+
+
 <!-- Slides can be added in a few ways: -->
 <!-- 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
