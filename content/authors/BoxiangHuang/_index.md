@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Kai Du 杜凯
+title: Boxiang Huang（黄渤翔）
 
 # Full name (for SEO)
-first_name: Kai
-last_name: Du
+first_name: Boxiang
+last_name: Huang
 
 # Username (this should match the folder name)
 authors:
-  - 杜凯
+  - BoxiangHuang
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
+  - name: Peking University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,8 +70,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Undergraduate Interns           
+
 ---
 
 杜凯 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

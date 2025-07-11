@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shaoyang Cui(崔绍洋)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Shaoyang
+last_name: Cui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: TsingHua University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,20 +22,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Large Language Models
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Research Assistant
+      institution: Tsinghua University
+      year: 2025
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Peking University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

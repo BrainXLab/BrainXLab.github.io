@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Kai Du 杜凯
-
+title: Gan He （何干）
 # Full name (for SEO)
-first_name: Kai
-last_name: Du
+first_name: Gan
+last_name: He
 
 # Username (this should match the folder name)
 authors:
-  - 杜凯
+  - GanHe
 
 # Is this the primary user of the site?
 superuser: false
@@ -71,7 +70,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+
 ---
 
 杜凯 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
