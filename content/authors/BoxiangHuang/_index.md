@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boxiang Huang（黄渤翔）
+title: Boxiang Huang（黄勃翔）
 
 # Full name (for SEO)
 first_name: Boxiang
