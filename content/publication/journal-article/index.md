@@ -18,7 +18,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-09-18T00:00:00Z"
-doi: "10.1038/s41467-023-41383-z"
+doi: "10.1038/s41467-023-41553-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-18T00:00:00Z"
@@ -50,7 +50,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-023-41383-z.pdf
+url_pdf: https://www.nature.com/articles/s41467-023-41553-7.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
