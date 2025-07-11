@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junfeng Lu （陆俊峰）
+title: Junfeng Lu（陆俊峰）
 
 # Full name (for SEO)
 first_name: Junfeng

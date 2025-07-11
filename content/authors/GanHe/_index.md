@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gan He （何干）
+title: Gan He（何干）
 # Full name (for SEO)
 first_name: Gan
 last_name: He

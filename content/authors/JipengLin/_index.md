@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jipeng Lin （林基鹏）
+title: Jipeng Lin（林基鹏）
 
 # Full name (for SEO)
 first_name: Jipeng
