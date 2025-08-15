@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: sfn.jpg
+            filename: team-photo.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: yutaohe.jpg
+            filename: sfn.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: bookshelf.jpg
+            filename: yutaohe.jpg
             filters:
               brightness: 0.5
           position: center
